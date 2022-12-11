@@ -3,7 +3,7 @@
     "version": "1.12.2",
     "modLoaders": [
       {
-        "id": "forge-14.23.5.2859",
+        "id": "forge-14.23.5.2860",
         "primary": true
       }
     ]
@@ -589,6 +589,14 @@
       "required": true,
       "__meta": {
         "name": "Chance Cubes"
+      }
+    },
+    {
+      "projectID": 235107,
+      "fileID": 2695044,
+      "required": true,
+      "__meta": {
+        "name": "NotEnoughIDs"
       }
     },
     {
@@ -1239,6 +1247,19 @@
       "required": true,
       "__meta": {
         "name": "Additional Structures"
+      }
+    },
+    {
+      "projectID": 298969,
+      "fileID": 2939839,
+      "required": true,
+      "__meta": {
+        "name": "Spartan and Fire",
+        "dependencies": [
+          278141,
+          243298,
+          264231
+        ]
       }
     },
     {
